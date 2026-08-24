@@ -7,13 +7,12 @@ This script reads a CSV file and performs analysis such as summary statistics, f
 
 ## Tech Stack
 - Python
-- pandas *(update if you used a different library)*
+- pandas 
 
 ## Features
 - Load and parse CSV files
 - Generate summary statistics (mean, count, min/max, etc.)
 - Handle missing/invalid data
-- *(Add any other specific features your script has)*
 
 ## How to Run
 ```bash
