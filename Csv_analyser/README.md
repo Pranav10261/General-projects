@@ -7,6 +7,7 @@ Upload a CSV and instantly get row/column counts, per-column data types and null
 
 ## Tech Stack
 - Python
+<<<<<<< HEAD
 - Streamlit
 - pandas
 - Matplotlib
@@ -19,6 +20,14 @@ Upload a CSV and instantly get row/column counts, per-column data types and null
 - Bar chart of null values per column
 - Distribution charts for each numeric column
 - Top 5 category breakdown for each text column
+=======
+- pandas 
+
+## Features
+- Load and parse CSV files
+- Generate summary statistics (mean, count, min/max, etc.)
+- Handle missing/invalid data
+>>>>>>> 2135d8d9374140e8273f112f47c3b8e899f64bca
 
 ## How to Run
 ```bash
