@@ -44,6 +44,8 @@ csv_analyser/
 ├── requirements.txt
 └── README.md
 ```
+## Live link
+[click here](https://general-projects-cytbeg9nbvb4wbgqggbvtg.streamlit.app/)
 
 ## Author
 Pranav K — [Pranav10261](https://github.com/Pranav10261)
