@@ -12,7 +12,7 @@ st.sidebar.title("Stock Dashboard")
 
 
 def sidebar():
-    stock_name = st.sidebar.text_input("Enter the stock name:", "AAPL", key="stock_name")
+    stock_name = st.sidebar.text_input("Enter the stock name:", "ORCL", key="stock_name")
     try:
         ticker = yf.Ticker(stock_name)
     except Exception:
