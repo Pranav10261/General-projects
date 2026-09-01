@@ -1,6 +1,7 @@
 streamlit==1.62.0
 yfinance==1.6.0
-json
 requests==2.32.3
 pathlib==1.0.3
 plotly==5.15.0
+pandas==2.0.3
+json
