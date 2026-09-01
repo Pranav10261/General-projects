@@ -1,7 +1,5 @@
 # Stock Price
 
-![Live link](https://general-projects-rzkxb3anaaeekr7dufdggk.streamlit.app/)
-
 A Python project for fetching, tracking, or analyzing stock price data.
 
 ## Overview
