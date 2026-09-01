@@ -22,7 +22,7 @@ streamlit run stock_price.py
 ```
 
 
-![Stock price viewer](https://general-projects-rzkxb3anaaeekr7dufdggk.streamlit.app/)
+![Stock price viewer](https://general-projects-rzkxb3anaaeekr7dufdggk.streamlit.app)
 
 ## Dashboard Previews
 
