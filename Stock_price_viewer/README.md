@@ -20,6 +20,10 @@ An interactive web dashboard built with Python and Streamlit that allows users t
 pip install -r requirements.txt
 streamlit run stock_price.py
 ```
+
+
+![Stock price viewer](https://general-projects-rzkxb3anaaeekr7dufdggk.streamlit.app/)
+
 ## Dashboard Previews
 
 **Main Interface & Input Sidebar**
