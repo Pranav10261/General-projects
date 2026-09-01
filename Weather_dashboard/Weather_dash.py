@@ -3,7 +3,7 @@ import requests
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="Wether Dashboard", layout="wide")
+st.set_page_config(page_title="Weather Dashboard", layout="wide")
 
 try:
     key = st.secrets["API_KEY"]
