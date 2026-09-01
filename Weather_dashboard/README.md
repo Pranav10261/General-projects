@@ -1,6 +1,8 @@
 # Weather Dash: Global Real-Time & Historical Insights
+
 A Python weather dashboard that displays live weather data in a simple visual interface.
-![Live link]()
+
+[Live link](https://general-projects-4suzm5qnfyympgmhmqpsux.streamlit.app/)
 
 ## Overview
 An interactive web application built with Python and Streamlit that provides real-time meteorological updates and historical context[cite: 3]. Designed to deliver daily business and travel insights, the dashboard offers professionals and travelers an instant, visually appealing snapshot of current conditions alongside week-long temperature trends for any global destination.
