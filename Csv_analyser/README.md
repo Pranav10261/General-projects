@@ -38,7 +38,7 @@ Then open the local URL Streamlit prints in your terminal, and upload a CSV file
 
 ## Project Structure
 ```
-csv_analyser/
+Csv_analyser/
 ├── csv_analyser.py
 ├── sample_data.csv
 ├── requirements.txt
