@@ -35,6 +35,7 @@ General_projects/
 |   └── README.md
 ├── stock_price_viewer/
 |   ├── stock_price.py
+|   ├── tickers.json
 |   └── README.md
 ├── python_terminal_game/
 │   ├── game.py
