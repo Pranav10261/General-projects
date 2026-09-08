@@ -27,7 +27,7 @@ The environment features an interactive command-line interface (CLI). Users driv
 
 ## Project Structure
 ```
-game/
+python_terminal_game/
 ├── game.py
 ├──save_data.json
 └── README.md
