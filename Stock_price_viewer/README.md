@@ -38,8 +38,9 @@ streamlit run stock_price.py
 
 ## Project Structure
 ```
-stock_price/
+Stock_price_viewer/
 ├── stock_price.py
+├── tickers.json
 └── README.md
 ```
 
