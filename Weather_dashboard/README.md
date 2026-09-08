@@ -41,7 +41,7 @@ streamlit run weather_dash.py
 
 ## Project Structure
 ```
-Weather_dash/
+Weather_dashboard/
 ├── Weather_dash.py
 ├── requirements.txt
 └── README.md
