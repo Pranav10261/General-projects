@@ -1,4 +1,4 @@
-# General_projects
+# General-projects
 
 A collection of small, standalone Python projects covering data tools, simple apps, and games — built for practice and experimentation. The repo includes a `.devcontainer` setup for a consistent, ready-to-code environment.
 
